@@ -1,6 +1,6 @@
 [project]
 name = "marimo-functions"
-version = "0.1.0"
+version = "0.2.0"
 authors = [
     { name="Sam Minot", email="sminot@fredhutch.org" }
 ]
